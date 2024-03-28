@@ -1,4 +1,4 @@
-# Assignment 7b: Score and grade calculation
+e# Assignment 7b: Score and grade calculation
 
 The file `testscores.csv` contains test scores for a cohort of students. The first row contains header names.
 
